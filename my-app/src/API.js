@@ -24,7 +24,8 @@ export const data = [
                 timestamp: "Sun Aug 02 2020 18:15:45 GMT+0530",
                 points: "8",
                 replyId: "1",
-                parentReplyId : "003"
+                parentReplyId : "003",
+                replies:[]
               }
             ]
           },
@@ -35,7 +36,8 @@ export const data = [
             timestamp: "Sun Aug 02 2020 18:10:45 GMT+0530",
             points: "2",
             replyId : "2",
-            parentReplyId: "001"
+            parentReplyId: "001",
+            replies:[]
           }
         ]
     },
